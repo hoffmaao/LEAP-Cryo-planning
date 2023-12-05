@@ -20,3 +20,7 @@ bed properties papers:
 - Aitken, A.R., Li, L., Kulessa, B., Schroeder, D.M., Jordan, T.A., Whittaker, J.M., Anandakrishnan, S., Dawson, E.J., Wiens, D.A., Eisen, O. and Siegert, M.J., 2023. Antarctic sedimentary basins and their influence on ice sheet dynamics. Authorea Preprints. [url](https://d197for5662m48.cloudfront.net/documents/publicationstatus/141443/preprint_pdf/739e813822ba8a2d854157bcbe8971bf.pdf)
 - Jordan, T.A., Riley, T.R. and Siddoway, C.S., 2020. The geological history and evolution of West Antarctica. Nature Reviews Earth & Environment, 1(2), pp.117-133.[url](https://www.nature.com/articles/s43017-019-0013-6)
 
+
+inverse/data assimilation methods for determining basal resistance:
+- Gillet-Chaulet, F.: Assimilation of surface observations in a transient marine ice sheet model using an ensemble Kalman filter, The Cryosphere, 14, 811–832, https://doi.org/10.5194/tc-14-811-2020, 2020. [url](https://tc.copernicus.org/articles/14/811/2020/)
+- Goldberg, D. N. and Heimbach, P.: Parameter and state estimation with a time-dependent adjoint marine ice sheet model, The Cryosphere, 7, 1659–1678, https://doi.org/10.5194/tc-7-1659-2013, 2013. [url](https://tc.copernicus.org/articles/7/1659/2013/)
